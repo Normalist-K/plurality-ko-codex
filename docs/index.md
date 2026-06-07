@@ -1,3 +1,13 @@
+# Plurality 한국어 자동 번역 개인 fork
+
+> 이 사이트는 비공식 Codex 자동 번역본을 스터디용으로 읽기 쉽게 배포하기 위한 개인 fork입니다. 공식 한국어판이 아니며, 기존 한국어 번역 작업자 또는 Plurality Discord 번역 채널과 아직 조율되지 않았습니다.
+
+- [한국어 번역 읽기](korean/index.md)
+- [원본 프로젝트](https://github.com/pluralitybook/plurality)
+- [이 fork의 GitHub 저장소](https://github.com/Normalist-K/plurality-ko-codex)
+
+---
+
 ---
 title: Welcome
 author:

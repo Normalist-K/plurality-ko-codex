@@ -20,6 +20,7 @@
 
 ## 바로 보기
 
+- 웹으로 보기: [`https://normalist-k.github.io/plurality-ko-codex/`](https://normalist-k.github.io/plurality-ko-codex/)
 - 한국어 번역 Markdown: [`contents/korean/`](contents/korean/)
 - v0.2 QA 리뷰: [`translation-review/`](translation-review/)
 - 자동 번역 작업 노트: [`TRANSLATION-NOTES-KO.md`](TRANSLATION-NOTES-KO.md)

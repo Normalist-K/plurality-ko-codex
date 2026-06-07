@@ -1,4 +1,5 @@
-site_name: Plurality Docs
+site_name: Plurality Korean Study Draft
+site_url: https://normalist-k.github.io/plurality-ko-codex/
 docs_dir: docs
 
 theme:
@@ -9,13 +10,64 @@ theme:
   favicon: assets/favicon.png
 
 markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - tables
   - pymdownx.tasklist:
       custom_checkbox: true
   - toc:
       toc_depth: 2
-  
-nav: 
-- Start here: 
+
+nav:
+- Korean translation:
+  - 안내: korean/index.md
+  - Front Matter:
+    - "추천사": "korean/0-0-endorsements.md"
+    - "저자 소개": "korean/0-1-About-the-authors.md"
+    - "자신의 도(道) 찾기": "korean/0-2-finding-your-dao.md"
+    - "크레딧": "korean/0-3-credits.md"
+    - "다원적으로 보기": "korean/1-preface.md"
+  - Part 2:
+    - "정보기술과 민주주의: 벌어지는 간극": "korean/2-0-information-technology-and-democracy-a-widening-gulf.md"
+    - "위산에서 본 풍경": "korean/2-1-a-view-from-yushan.md"
+    - "디지털 민주주의의 삶": "korean/2-2-the-life-of-a-digital-democracy.md"
+  - Part 3:
+    - "⿻란 무엇인가?": "korean/3-0-what-is-⿻.md"
+    - "⿻ 세계에서 살아가기": "korean/3-1-living-in-a-⿻-world.md"
+    - "연결된 사회": "korean/3-2-connected-society.md"
+    - "잃어버린 도": "korean/3-3-the-lost-dao.md"
+  - Part 4:
+    - "권리, 운영체제, 그리고 ⿻ 자유": "korean/4-0-rights-os-and-⿻-freedom.md"
+    - "정체성과 인격성": "korean/4-1-identity-and-personhood.md"
+    - "결사와 ⿻ 공중들": "korean/4-2-association-and-⿻-publics.md"
+    - "상거래와 신뢰": "korean/4-3-commerce-and-trust.md"
+    - "재산과 계약": "korean/4-4-property-and-contract.md"
+    - "접근": "korean/4-5-access.md"
+  - Part 5:
+    - "협력 기술과 민주주의": "korean/5-0-collaborative-technology-and-democracy.md"
+    - "탈상징적 커뮤니케이션": "korean/5-1-post-symbolic-communication.md"
+    - "몰입형 공유 현실": "korean/5-2-immersive-shared-reality.md"
+    - "창의적 협업": "korean/5-3-creative-collaborations.md"
+    - "증강 숙의": "korean/5-4-augmented-deliberation.md"
+    - "적응형 행정": "korean/5-5-adaptive-administration.md"
+    - "⿻ 투표": "korean/5-6-⿻-voting.md"
+    - "사회적 시장": "korean/5-7-social-markets.md"
+  - Part 6:
+    - "⿻에서 현실로": "korean/6-0-from-⿻-to-reality.md"
+    - "직장": "korean/6-1-workplace.md"
+    - "건강": "korean/6-2-health.md"
+    - "미디어": "korean/6-3-media.md"
+    - "환경": "korean/6-4-environment.md"
+    - "학습": "korean/6-5-learning.md"
+  - Part 7 and Appendix:
+    - "정책": "korean/7-0-policy.md"
+    - "결론": "korean/7-1-conclusion.md"
+    - "설명과 요약": "korean/8-blurb.md"
+    - "Ownership List": "korean/Plurality Book Ownership List.md"
+
+- Project docs:
   - Welcome: index.md
   - About the book: home/About the Plurality book.md
   - About the project: home/About the Plurality project.md
@@ -31,7 +83,7 @@ nav:
   - Contributing in other ways: contributing/Contributing in other ways.md
   - Contributing to the docs: contributing/Contributing to the docs.md
   - Pull Requests: contributing/Pull requests.md
-  
+
 - Book style guide:
   - Book structure: style guide/Book structure.md
   - Punctuation and grammar: style guide/Punctuation and grammar.md
