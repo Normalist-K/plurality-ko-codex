@@ -5,11 +5,13 @@
 이 저장소 패키지는 `pluralitybook/plurality` 원본 구조를 유지하면서, Codex로 생성한 한국어 자동 번역본을 `contents/korean/`에 추가한 개인 공유용 초안입니다.
 
 - 번역 성격: 실험적 자동 번역, 스터디/개인 학습용
+- 번역 상태: v0.2 Codex 장별 QA/편집 진행본
 - 공식성: 공식 한국어판 아님, 원본 프로젝트 승인/등재 전
 - 조율 상태: 기존 한국어 작업자 및 Plurality Discord 번역 채널과 아직 조율되지 않음
 - 원본 기준: `1c0f160e7858251677c0982a56518bb404d3dc21`
 - 번역 파일 수: 36
-- QA 요약: `84` pass / `3` warn / `0` fail
+- 초기 자동 QA 요약: `84` pass / `3` warn / `0` fail
+- v0.2 QA/편집 요약: 36개 장별 리포트, P0/P1 `42`건 반영, P2/P3 보류
 - 구조 검증 이슈: `0`
 
 공식 한국어 번역본이나 원본 프로젝트의 승인을 받은 배포본으로 보이면 안 되므로, 외부에 공유할 때는 이 문단을 유지하는 편이 좋습니다. 원본 프로젝트는 CC0/public domain을 표방하며 번역 fork를 장려하지만, 공식 목록 등재와 `plurality.net` 반영은 별도의 승인 절차가 있습니다.
@@ -19,6 +21,7 @@
 ## 바로 보기
 
 - 한국어 번역 Markdown: [`contents/korean/`](contents/korean/)
+- v0.2 QA 리뷰: [`translation-review/`](translation-review/)
 - 자동 번역 작업 노트: [`TRANSLATION-NOTES-KO.md`](TRANSLATION-NOTES-KO.md)
 
 ---

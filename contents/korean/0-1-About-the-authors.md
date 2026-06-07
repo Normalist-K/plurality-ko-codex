@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-AudreyGlen.jpg)
 
- [E. Glen Weyl](https://www.glenweyl.com)은 [RadicalxChange](https://www.radicalxchange.org), [Microsoft Research](https://www.microsoft.com/en-us/research/)의 [Plural Technology Collaboratory](https://aka.ms/plural) 및 [Plurality Institute](https://plurality.institute)의 창립자이며, [*Radical Markets*](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)의 공동 저자다.  [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang)은 초대 [디지털부 장관](https://en.wikipedia.org/wiki/Ministry_of_Digital_Affairs_%28Taiwan%29)으로 [🇹🇼](https://en.wikipedia.org/wiki/Taiwan)에서 일했으며, 🌐 최초의 [🏳️‍⚧️](https://en.wikipedia.org/wiki/List_of_transgender_political_office-holders) 장관이다.
+ [E. Glen Weyl](https://www.glenweyl.com)은 [RadicalxChange](https://www.radicalxchange.org), [Microsoft Research](https://www.microsoft.com/en-us/research/)의 [Plural Technology Collaboratory](https://aka.ms/plural) 및 [Plurality Institute](https://plurality.institute)의 창립자이며, [*Radical Markets*](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)의 공동 저자다.  [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang)은 [🇹🇼](https://en.wikipedia.org/wiki/Taiwan)의 초대 [디지털부 장관](https://en.wikipedia.org/wiki/Ministry_of_Digital_Affairs_%28Taiwan%29)이며, 🌐 최초의 [🏳️‍⚧️](https://en.wikipedia.org/wiki/List_of_transgender_political_office-holders) 장관이다.
 <br></br>
 
 ![](https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/author-Community.png)

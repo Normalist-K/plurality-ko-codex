@@ -12,6 +12,7 @@
 
 - 자동 QA: `84` pass / `3` warn / `0` fail
 - 구조 검증 이슈: `0`
+- v0.2 Codex 장별 QA/편집: 36개 장별 한영 대조 리포트 작성, P0 `2`건과 P1 `40`건 반영, P2/P3는 보류
 
 ## 운영 원칙
 
@@ -52,6 +53,18 @@ pilot 이후에는 번역과 편집을 겹쳐 돌렸다. Part 2를 끝까지 번
 최종 QA 결과는 총 87개 chunk 중 84 pass, 3 warn, 0 fail이었다. 남은 warning 3개는 주로 참고문헌과 각주에 남은 영어 고유명, 논문 제목, 기관명 때문에 발생했다. 구조 파손이나 누락은 발견되지 않았다.
 
 마지막으로 `assemble_korean_auto.py`가 87개 edited chunk를 36개 장별 Markdown으로 조립했고, `verify_assembled_outputs.py`가 원문 대비 heading/link/image/code fence/figure 구조 보존을 검증했다. 최종 조립본 검증 이슈는 `0`개였다.
+
+## 3. v0.2 Codex 장별 QA/편집 라운드
+
+v0.2 라운드는 `리포트 후 수정` 원칙으로 진행했다. 먼저 36개 한국어 Markdown 전체에 대해 장별 한영 대조 QA 리포트를 만들고, 그 리포트에서 확인된 P0/P1 항목만 `contents/korean/`에 반영했다.
+
+장별 QA는 36개 worker가 각 장의 원문 전체와 번역문 전체를 대조하는 방식으로 수행했다. 리포트 항목은 누락, 오역, 의미 약화/과잉, 용어 불일치, 한국어 문체, 제목/소제목, 각주/참고문헌, Markdown 구조로 고정했다. severity는 `P0 구조/누락`, `P1 의미 오역`, `P2 용어/문체`, `P3 취향/윤문`으로 나누었다.
+
+교차 검증으로는 구조 baseline, 영어 잔존, 제목 대응, 용어 일관성 스캔을 수행했다. 구조 기준은 원문 대비 heading, link, image, code fence, figure count가 모두 일치해야 한다는 보수적 기준을 사용했다.
+
+편집 단계에서는 5개 편집 worker가 P0/P1이 있는 25개 파일의 full-file 후보를 만들고, 1개 worker가 P0/P1이 없는 11개 파일을 수정 없음으로 확인했다. 메인 Codex는 후보 파일 구조를 다시 검증한 뒤 fork의 `contents/korean/`에 통합했다.
+
+최종 반영 범위는 P0 `2`건, P1 `40`건이다. P2 `262`건과 P3 `209`건은 대량 윤문으로 번지지 않도록 이번 라운드에서는 보류하고, `translation-review/chapter-qa/`와 `translation-review/revision-log.md`에 추적 가능한 형태로 남겼다.
 
 ## 포함 파일
 
