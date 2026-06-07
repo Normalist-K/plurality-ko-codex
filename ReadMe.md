@@ -1,3 +1,28 @@
+# Plurality 한국어 자동 번역 개인 fork
+
+> Unofficial Korean automatic translation draft. This repository is not an official Korean translation, is not maintained or approved by the original Plurality project, and has not yet been coordinated with the existing Korean translation contributors or the Plurality Discord translation channel.
+
+이 저장소 패키지는 `pluralitybook/plurality` 원본 구조를 유지하면서, Codex로 생성한 한국어 자동 번역본을 `contents/korean/`에 추가한 개인 공유용 초안입니다.
+
+- 번역 성격: 실험적 자동 번역, 스터디/개인 학습용
+- 공식성: 공식 한국어판 아님, 원본 프로젝트 승인/등재 전
+- 조율 상태: 기존 한국어 작업자 및 Plurality Discord 번역 채널과 아직 조율되지 않음
+- 원본 기준: `1c0f160e7858251677c0982a56518bb404d3dc21`
+- 번역 파일 수: 36
+- QA 요약: `84` pass / `3` warn / `0` fail
+- 구조 검증 이슈: `0`
+
+공식 한국어 번역본이나 원본 프로젝트의 승인을 받은 배포본으로 보이면 안 되므로, 외부에 공유할 때는 이 문단을 유지하는 편이 좋습니다. 원본 프로젝트는 CC0/public domain을 표방하며 번역 fork를 장려하지만, 공식 목록 등재와 `plurality.net` 반영은 별도의 승인 절차가 있습니다.
+
+개인 repo에서 의도치 않은 Pages 배포가 일어나지 않도록 `docs/CNAME`은 `docs/CNAME.original-disabled`로, `docs-ci.yml`은 `docs-ci.yml.disabled`로 비활성화했습니다.
+
+## 바로 보기
+
+- 한국어 번역 Markdown: [`contents/korean/`](contents/korean/)
+- 자동 번역 작업 노트: [`TRANSLATION-NOTES-KO.md`](TRANSLATION-NOTES-KO.md)
+
+---
+
 ReadMe for *Plurality: The Future of Collaborative Technology and Democracy* by Audrey Tang, E. Glen Weyl and the Plurality Community
 
 Welcome to *Plurality*, an open, git-based collaborative book project that aims to offer a vision for the future of technology focused around empowering and bridging social difference.  While we have outlined the substance of the book elsewhere (see https://www.plurality.net), the purpose of this ReadMe is to provide an overview of the collaboration that will help create the book aimed at those who will participate in doing so.
