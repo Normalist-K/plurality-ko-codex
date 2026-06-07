@@ -1,0 +1,1082 @@
+[
+  {
+    "file": "0-0-endorsements.md",
+    "counts": {
+      "headings": [
+        1,
+        1
+      ],
+      "links": [
+        98,
+        98
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 19858,
+      "target_chars": 14095,
+      "target_alpha_words": 12,
+      "target_korean_chars": 4005
+    },
+    "missing": false
+  },
+  {
+    "file": "0-1-About-the-authors.md",
+    "counts": {
+      "headings": [
+        0,
+        0
+      ],
+      "links": [
+        13,
+        13
+      ],
+      "images": [
+        2,
+        2
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 1664,
+      "target_chars": 1224,
+      "target_alpha_words": 21,
+      "target_korean_chars": 215
+    },
+    "missing": false
+  },
+  {
+    "file": "0-2-finding-your-dao.md",
+    "counts": {
+      "headings": [
+        1,
+        1
+      ],
+      "links": [
+        1,
+        1
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 2640,
+      "target_chars": 1420,
+      "target_alpha_words": 3,
+      "target_korean_chars": 829
+    },
+    "missing": false
+  },
+  {
+    "file": "0-3-credits.md",
+    "counts": {
+      "headings": [
+        1,
+        1
+      ],
+      "links": [
+        0,
+        0
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 864,
+      "target_chars": 383,
+      "target_alpha_words": 0,
+      "target_korean_chars": 268
+    },
+    "missing": false
+  },
+  {
+    "file": "1-preface.md",
+    "counts": {
+      "headings": [
+        1,
+        1
+      ],
+      "links": [
+        1,
+        1
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 2053,
+      "target_chars": 1073,
+      "target_alpha_words": 1,
+      "target_korean_chars": 641
+    },
+    "missing": false
+  },
+  {
+    "file": "2-0-information-technology-and-democracy-a-widening-gulf.md",
+    "counts": {
+      "headings": [
+        10,
+        10
+      ],
+      "links": [
+        44,
+        44
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        8,
+        8
+      ],
+      "source_chars": 87084,
+      "target_chars": 56623,
+      "target_alpha_words": 2394,
+      "target_korean_chars": 18872
+    },
+    "missing": false
+  },
+  {
+    "file": "2-1-a-view-from-yushan.md",
+    "counts": {
+      "headings": [
+        7,
+        7
+      ],
+      "links": [
+        3,
+        3
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 30183,
+      "target_chars": 16589,
+      "target_alpha_words": 372,
+      "target_korean_chars": 8373
+    },
+    "missing": false
+  },
+  {
+    "file": "2-2-the-life-of-a-digital-democracy.md",
+    "counts": {
+      "headings": [
+        15,
+        15
+      ],
+      "links": [
+        16,
+        16
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        2,
+        2
+      ],
+      "source_chars": 42250,
+      "target_chars": 23621,
+      "target_alpha_words": 327,
+      "target_korean_chars": 11599
+    },
+    "missing": false
+  },
+  {
+    "file": "3-0-what-is-⿻.md",
+    "counts": {
+      "headings": [
+        1,
+        1
+      ],
+      "links": [
+        1,
+        1
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 8489,
+      "target_chars": 4887,
+      "target_alpha_words": 98,
+      "target_korean_chars": 2557
+    },
+    "missing": false
+  },
+  {
+    "file": "3-1-living-in-a-⿻-world.md",
+    "counts": {
+      "headings": [
+        6,
+        6
+      ],
+      "links": [
+        17,
+        17
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 33436,
+      "target_chars": 19236,
+      "target_alpha_words": 444,
+      "target_korean_chars": 8354
+    },
+    "missing": false
+  },
+  {
+    "file": "3-2-connected-society.md",
+    "counts": {
+      "headings": [
+        9,
+        9
+      ],
+      "links": [
+        10,
+        10
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        2,
+        2
+      ],
+      "source_chars": 35792,
+      "target_chars": 19063,
+      "target_alpha_words": 246,
+      "target_korean_chars": 10959
+    },
+    "missing": false
+  },
+  {
+    "file": "3-3-the-lost-dao.md",
+    "counts": {
+      "headings": [
+        11,
+        11
+      ],
+      "links": [
+        38,
+        38
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        4,
+        4
+      ],
+      "source_chars": 61901,
+      "target_chars": 36670,
+      "target_alpha_words": 768,
+      "target_korean_chars": 16094
+    },
+    "missing": false
+  },
+  {
+    "file": "4-0-rights-os-and-⿻-freedom.md",
+    "counts": {
+      "headings": [
+        8,
+        8
+      ],
+      "links": [
+        39,
+        39
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        2,
+        2
+      ],
+      "source_chars": 32554,
+      "target_chars": 19443,
+      "target_alpha_words": 256,
+      "target_korean_chars": 9105
+    },
+    "missing": false
+  },
+  {
+    "file": "4-1-identity-and-personhood.md",
+    "counts": {
+      "headings": [
+        6,
+        6
+      ],
+      "links": [
+        41,
+        41
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 53679,
+      "target_chars": 30583,
+      "target_alpha_words": 402,
+      "target_korean_chars": 15171
+    },
+    "missing": false
+  },
+  {
+    "file": "4-2-association-and-⿻-publics.md",
+    "counts": {
+      "headings": [
+        6,
+        6
+      ],
+      "links": [
+        32,
+        32
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 42597,
+      "target_chars": 24723,
+      "target_alpha_words": 407,
+      "target_korean_chars": 12030
+    },
+    "missing": false
+  },
+  {
+    "file": "4-3-commerce-and-trust.md",
+    "counts": {
+      "headings": [
+        6,
+        6
+      ],
+      "links": [
+        25,
+        25
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 40068,
+      "target_chars": 23053,
+      "target_alpha_words": 367,
+      "target_korean_chars": 11894
+    },
+    "missing": false
+  },
+  {
+    "file": "4-4-property-and-contract.md",
+    "counts": {
+      "headings": [
+        7,
+        7
+      ],
+      "links": [
+        32,
+        32
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 50310,
+      "target_chars": 28367,
+      "target_alpha_words": 332,
+      "target_korean_chars": 14514
+    },
+    "missing": false
+  },
+  {
+    "file": "4-5-access.md",
+    "counts": {
+      "headings": [
+        3,
+        3
+      ],
+      "links": [
+        6,
+        6
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 14279,
+      "target_chars": 7650,
+      "target_alpha_words": 100,
+      "target_korean_chars": 4278
+    },
+    "missing": false
+  },
+  {
+    "file": "5-0-collaborative-technology-and-democracy.md",
+    "counts": {
+      "headings": [
+        6,
+        6
+      ],
+      "links": [
+        25,
+        25
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 37736,
+      "target_chars": 20764,
+      "target_alpha_words": 343,
+      "target_korean_chars": 11298
+    },
+    "missing": false
+  },
+  {
+    "file": "5-1-post-symbolic-communication.md",
+    "counts": {
+      "headings": [
+        5,
+        5
+      ],
+      "links": [
+        13,
+        13
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 21622,
+      "target_chars": 11871,
+      "target_alpha_words": 227,
+      "target_korean_chars": 6024
+    },
+    "missing": false
+  },
+  {
+    "file": "5-2-immersive-shared-reality.md",
+    "counts": {
+      "headings": [
+        5,
+        5
+      ],
+      "links": [
+        15,
+        15
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 26992,
+      "target_chars": 15204,
+      "target_alpha_words": 227,
+      "target_korean_chars": 7318
+    },
+    "missing": false
+  },
+  {
+    "file": "5-3-creative-collaborations.md",
+    "counts": {
+      "headings": [
+        5,
+        5
+      ],
+      "links": [
+        38,
+        38
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 24807,
+      "target_chars": 13682,
+      "target_alpha_words": 149,
+      "target_korean_chars": 6753
+    },
+    "missing": false
+  },
+  {
+    "file": "5-4-augmented-deliberation.md",
+    "counts": {
+      "headings": [
+        5,
+        5
+      ],
+      "links": [
+        46,
+        46
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 40393,
+      "target_chars": 24097,
+      "target_alpha_words": 478,
+      "target_korean_chars": 10186
+    },
+    "missing": false
+  },
+  {
+    "file": "5-5-adaptive-administration.md",
+    "counts": {
+      "headings": [
+        5,
+        5
+      ],
+      "links": [
+        28,
+        28
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 25791,
+      "target_chars": 14069,
+      "target_alpha_words": 121,
+      "target_korean_chars": 7319
+    },
+    "missing": false
+  },
+  {
+    "file": "5-6-⿻-voting.md",
+    "counts": {
+      "headings": [
+        5,
+        5
+      ],
+      "links": [
+        17,
+        17
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 23666,
+      "target_chars": 13545,
+      "target_alpha_words": 233,
+      "target_korean_chars": 6727
+    },
+    "missing": false
+  },
+  {
+    "file": "5-7-social-markets.md",
+    "counts": {
+      "headings": [
+        5,
+        5
+      ],
+      "links": [
+        21,
+        21
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        3,
+        3
+      ],
+      "source_chars": 37658,
+      "target_chars": 21305,
+      "target_alpha_words": 593,
+      "target_korean_chars": 9987
+    },
+    "missing": false
+  },
+  {
+    "file": "6-0-from-⿻-to-reality.md",
+    "counts": {
+      "headings": [
+        4,
+        4
+      ],
+      "links": [
+        10,
+        10
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        3,
+        3
+      ],
+      "source_chars": 26780,
+      "target_chars": 15144,
+      "target_alpha_words": 235,
+      "target_korean_chars": 7616
+    },
+    "missing": false
+  },
+  {
+    "file": "6-1-workplace.md",
+    "counts": {
+      "headings": [
+        7,
+        7
+      ],
+      "links": [
+        19,
+        19
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        1,
+        1
+      ],
+      "source_chars": 31898,
+      "target_chars": 19086,
+      "target_alpha_words": 461,
+      "target_korean_chars": 8104
+    },
+    "missing": false
+  },
+  {
+    "file": "6-2-health.md",
+    "counts": {
+      "headings": [
+        7,
+        7
+      ],
+      "links": [
+        11,
+        11
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        2,
+        2
+      ],
+      "source_chars": 34122,
+      "target_chars": 19261,
+      "target_alpha_words": 452,
+      "target_korean_chars": 9174
+    },
+    "missing": false
+  },
+  {
+    "file": "6-3-media.md",
+    "counts": {
+      "headings": [
+        6,
+        6
+      ],
+      "links": [
+        12,
+        12
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 21753,
+      "target_chars": 12174,
+      "target_alpha_words": 211,
+      "target_korean_chars": 6556
+    },
+    "missing": false
+  },
+  {
+    "file": "6-4-environment.md",
+    "counts": {
+      "headings": [
+        4,
+        4
+      ],
+      "links": [
+        10,
+        10
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 11581,
+      "target_chars": 6888,
+      "target_alpha_words": 63,
+      "target_korean_chars": 2902
+    },
+    "missing": false
+  },
+  {
+    "file": "6-5-learning.md",
+    "counts": {
+      "headings": [
+        5,
+        5
+      ],
+      "links": [
+        2,
+        2
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 19676,
+      "target_chars": 9813,
+      "target_alpha_words": 47,
+      "target_korean_chars": 5590
+    },
+    "missing": false
+  },
+  {
+    "file": "7-0-policy.md",
+    "counts": {
+      "headings": [
+        9,
+        9
+      ],
+      "links": [
+        38,
+        38
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        2,
+        2
+      ],
+      "source_chars": 58601,
+      "target_chars": 31356,
+      "target_alpha_words": 280,
+      "target_korean_chars": 16623
+    },
+    "missing": false
+  },
+  {
+    "file": "7-1-conclusion.md",
+    "counts": {
+      "headings": [
+        6,
+        6
+      ],
+      "links": [
+        3,
+        3
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 18568,
+      "target_chars": 9384,
+      "target_alpha_words": 20,
+      "target_korean_chars": 6362
+    },
+    "missing": false
+  },
+  {
+    "file": "8-blurb.md",
+    "counts": {
+      "headings": [
+        38,
+        38
+      ],
+      "links": [
+        0,
+        0
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 9495,
+      "target_chars": 4738,
+      "target_alpha_words": 1,
+      "target_korean_chars": 3066
+    },
+    "missing": false
+  },
+  {
+    "file": "Plurality Book Ownership List.md",
+    "counts": {
+      "headings": [
+        0,
+        0
+      ],
+      "links": [
+        0,
+        0
+      ],
+      "images": [
+        0,
+        0
+      ],
+      "code_fences": [
+        0,
+        0
+      ],
+      "figures": [
+        0,
+        0
+      ],
+      "source_chars": 1431,
+      "target_chars": 1231,
+      "target_alpha_words": 43,
+      "target_korean_chars": 83
+    },
+    "missing": false
+  }
+]
