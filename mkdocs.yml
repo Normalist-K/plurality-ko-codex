@@ -4,6 +4,8 @@ docs_dir: docs/korean
 
 theme:
   name: material
+  features:
+    - navigation.expand
   palette:
     primary: black
 
